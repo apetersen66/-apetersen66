@@ -22,8 +22,6 @@
         <span>PostgreSQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
