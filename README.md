@@ -25,12 +25,12 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>html</span><br><br><br>
+        <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>css</span><br><br><br>
-        <img height="64px" src="https://https://cdn.svgporn.com/logos/css-3.svg">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
     </tr>
   </tbody>
 </table>
