@@ -7,7 +7,6 @@
 - Looking to get masters in data science/machine learning in the near future
 - Persuing a career in the tech industry for data science
 - learning more about data analysis and machine learning every day
-- 
 
 <h3> Programming </h3>
 
