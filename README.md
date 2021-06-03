@@ -20,7 +20,7 @@
       </td>
       <td width="25%" align="center">
         <span>PostgreSQL</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -35,7 +35,7 @@
   </tbody>
 </table>
 
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+<h3> 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 </h3>
 
 - 💻 Exploratory Data Analysis of different kaggle datasets and machine learning models
 - 💻 Creating my own portfolio website from scratch
